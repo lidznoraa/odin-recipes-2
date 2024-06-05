@@ -1,0 +1,24 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container, .container-recipe{
+    margin: auto;
+    background-color: bisque;
+    height: auto;
+    width: 300px;
+    padding: 20px;
+}
+
+.container-recipe{
+    width: 800px;
+}
+
+.title, .description{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}

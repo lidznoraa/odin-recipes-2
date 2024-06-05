@@ -1,2 +1,3 @@
 # odin-recipes
-Here I make a simple HTML recipe list
+Here is an updated version of the 
+first Recipe Html but this time with CSS
